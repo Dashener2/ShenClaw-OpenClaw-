@@ -1,0 +1,10 @@
+{
+  "name": "@shenclaw/telegram",
+  "version": "1.0.0",
+  "description": "ShenClaw Telegram channel adapter",
+  "main": "src/index.ts",
+  "scripts": {},
+  "dependencies": {
+    "telegraf": "^4.16.3"
+  }
+}
